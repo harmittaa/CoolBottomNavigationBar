@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_24px"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/comment"
+        android:icon="@drawable/ic_comment_24px"
+        android:title="Comment" />
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/ic_data_usage_24px"
+        android:title="Stats" />
+</menu>
