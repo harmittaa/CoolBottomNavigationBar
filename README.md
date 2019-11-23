@@ -10,4 +10,4 @@ https://medium.com/@harmittaa/android-floating-bottom-navigation-bar-with-rounde
 
 See below image for the outcome of this example
 
-![outomce](https://raw.githubusercontent.com/harmittaa/CoolBottomNavigationBar/master/screens/outcome.png)
+![outcome](https://raw.githubusercontent.com/harmittaa/CoolBottomNavigationBar/master/screens/outcome.png)
