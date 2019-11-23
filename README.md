@@ -8,6 +8,8 @@ https://medium.com/@harmittaa/android-floating-bottom-navigation-bar-with-rounde
 
 ## Outcome
 
-See below image for the outcome of this example
+See the image below for the outcome of this example
 
-![outcome](https://raw.githubusercontent.com/harmittaa/CoolBottomNavigationBar/master/screens/outcome.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harmittaa/CoolBottomNavigationBar/master/screens/outcome.png" width="300">
+</p>
